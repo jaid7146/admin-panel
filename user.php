@@ -128,7 +128,7 @@ $result = $conn->query($sql);
 </table>
 </div>
 <!-- Pagination -->
-<div style="text-align: center; margin-top: 20px; ">
+<div style="text-align: center;">
     <nav aria-label="Page navigation example">
         <ul class="pagination justify-content-end" style="margin-right: 17px;">
 
