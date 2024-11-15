@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 session_start();
 ?>
@@ -92,3 +93,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 
 ?>
+=======
+<!-- <?php 
+print_r($_FILES);
+?> -->
+>>>>>>> ff6e1e2c5870e7d63a1f53b5856aa87074fd4335
